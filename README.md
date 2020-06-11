@@ -4,11 +4,11 @@ Primal stage of the project, goal being getting familiar with django and reachin
 ## File Structure
 ```
 +---CareerGo-Demo
-|   +---Lib (* Your own virtualenv file *)
+|   +---Lib                        (* Your own virtualenv file *)
 |   |   +---site-packages
-|   +---Scripts (* Your own virtualenv file *)
+|   +---Scripts                    (* Your own virtualenv file *)
 |   |   +---__pycache__
-|   +---src (* Main Code For Project *)
+|   +---src                        (* Main Code For Project *)
 |   |   +---CareerGo
 ```
 
