@@ -51,3 +51,4 @@ Primal stage of the project, goal being getting familiar with django and reachin
      
      ```$ (CareerGo-Demo) ~/Dev/CareerGo/CareerGo-Demo> pip install django==2.2.13```
      
+10. 注意， 在git push的时候请不要直接在CareerGo-Demo目录下```$ git add .```， 因为这样会把你的virtualenv文件也一起commit上来，而我不知道不同的系统的virtualenv代码是不是一样的，因此最好不要这样。反之，我们的所有项目相关的代码都放在src文件夹下，因此只需要```git add src/.```就好了。
