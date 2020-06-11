@@ -67,5 +67,5 @@ Primal stage of the project, goal being getting familiar with django and reachin
 
 11. 所有的django projects只要activate好了，就可以直接startserver来查看了，而你从github上clone的src文件夹里面就已经是一个初始化完成了的django project，我们现在可以去看看能不能跑了。输入以下命令之后命令行会返回你localhost的地址，把那个copy进浏览器就能看到"The install worked successfully! Congratulations!"字段，说明你的django已经设置完成并且server能成功运行了
 
-    ```$ (CareerGo-Demo) ~/Dev/CareerGo/CareerGo-Demo> python manage.py runserver  ```
+    ```$ (CareerGo-Demo) ~/Dev/CareerGo/CareerGo-Demo/src> python manage.py runserver  ```
     
