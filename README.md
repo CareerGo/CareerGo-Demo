@@ -1,6 +1,17 @@
 # CareerGo-Demo
 Primal stage of the project, goal being getting familiar with django and reaching MVP
 
+## File Structure
+```
++---CareerGo-Demo
+|   +---Lib
+|   |   +---site-packages
+|   +---Scripts
+|   |   +---__pycache__
+|   +---src
+|   |   +---CareerGo
+```
+
 ## Setup 
 * Windows --> Powershell 
 * MacOS --> Terminal 
