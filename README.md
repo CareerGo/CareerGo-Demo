@@ -69,3 +69,4 @@ Primal stage of the project, goal being getting familiar with django and reachin
 
     ```$ (CareerGo-Demo) ~/Dev/CareerGo/CareerGo-Demo/src> python manage.py runserver  ```
     
+12. *如果用linux进行开发，可以尝试使用docker来打包环境* 
